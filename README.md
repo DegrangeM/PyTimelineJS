@@ -9,6 +9,7 @@ La frise chronologique produit un fichier html et utilise la bibliothèque [Time
 ![image](https://user-images.githubusercontent.com/53106394/224863188-78f483b8-2a4b-421b-9d87-b931bc038e28.png)
 
 ## Exemple :
+Le fichier `pytimelinejs.py` doit être placé dans le même dossier que le script python de l'élève.
 ```python
 from pytimelinejs import *
 
