@@ -2,8 +2,9 @@
 
 PyTimelineJS est une bibliothèque python permettant de générer des frises chronologiques.
 Cette bibliothèque a été programmée afin d'être simple d'utilisation pour des élèves.
+La frise chronologique produit un fichier html et utilise la bibliothèque [TimelineJs](https://github.com/NUKnightLab/TimelineJS3/).
 
-![image](https://user-images.githubusercontent.com/53106394/224862746-82139dbd-0892-4727-8b61-cd08615f17ec.png)
+![image](https://user-images.githubusercontent.com/53106394/224863188-78f483b8-2a4b-421b-9d87-b931bc038e28.png)
 
 ## Exemple :
 ```python
@@ -46,4 +47,9 @@ periode("1995", "2022", "Internet explorer")
 periode("1995", "2022", "Internet explorer", "Internet Explorer est un ancien navigateur développé par Microsoft") # Ajout d'une description
 periode("08/1995", "12/2022", "Internet explorer") # Ajout du mois
 periode("16/08/1995", "13/12/2022", "Internet explorer") # Ajout du mois et du jour
+
+### generer
+Génère le fichier html contenant la frise et ouvre le fichier dans le navigateur par défaut.
+```python
+generer()
 ```
