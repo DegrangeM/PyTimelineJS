@@ -9,6 +9,4 @@ date("1995", "Mise à disposition de technologies pour le développement de site
 date("2001", "Standardisation des pages grâce au DOM (Document Object Model)")
 date("2010", "Mise à disposition de technologies pour le développement d’applications sur mobiles")
 
-#periode("20/11/2019", "20/12/2019", "Titre", "Description")
-
 generer()
