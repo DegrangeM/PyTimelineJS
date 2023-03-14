@@ -47,6 +47,7 @@ periode("1995", "2022", "Internet explorer")
 periode("1995", "2022", "Internet explorer", "Internet Explorer est un ancien navigateur développé par Microsoft") # Ajout d'une description
 periode("08/1995", "12/2022", "Internet explorer") # Ajout du mois
 periode("16/08/1995", "13/12/2022", "Internet explorer") # Ajout du mois et du jour
+```
 
 ### generer
 Génère le fichier html contenant la frise et ouvre le fichier dans le navigateur par défaut.
