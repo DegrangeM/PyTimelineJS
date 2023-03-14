@@ -3,6 +3,8 @@
 PyTimelineJS est une bibliothèque python permettant de générer des frises chronologiques.
 Cette bibliothèque a été programmée afin d'être simple d'utilisation pour des élèves.
 
+![image](https://user-images.githubusercontent.com/53106394/224862746-82139dbd-0892-4727-8b61-cd08615f17ec.png)
+
 ## Exemple :
 ```python
 from pytimelinejs import *
